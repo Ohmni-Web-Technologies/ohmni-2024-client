@@ -5,7 +5,7 @@ const PreviewAction: DocumentActionComponent = (props: DocumentActionProps) => {
   const { published } = props as { published?: { slug?: { current?: string } } };
 
   const slug = published?.slug?.current;
-  const baseUrl = 'https://ohmni.tech';
+  const baseUrl = 'https://www.ohmni-2024-client-2wc2.vercel.app';
   const previewUrl = `${baseUrl}/studio/presentation?preview=/${slug}`;
 
   if (!slug) return null;

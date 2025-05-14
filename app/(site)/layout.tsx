@@ -36,7 +36,7 @@ export default async function RootLayout({
           )}
           <Script
             defer
-            data-domain="ohmni.tech"
+            data-domain="ohmni-2024-client-2wc2.vercel.app"
             src="https://plausible.io/js/script.hash.outbound-links.js"
             strategy="afterInteractive"
           />
