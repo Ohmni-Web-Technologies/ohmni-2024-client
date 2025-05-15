@@ -13,11 +13,11 @@ const navObject = defineType({
 	initialValue: {
 		header: {
 			_type: 'reference',
-			_ref: '1803e92e-e49f-4cd4-bc51-e4aabae093b9',
+			_ref: 'b7ce86fc-58b2-4687-b302-2919cd06c6c3',
 		},
 		footer: {
 			_type: 'reference',
-			_ref: 'c36f384a-3a07-4c3d-a683-ca94cb91974d',
+			_ref: '4f268c09-2dbd-4daf-92ae-b6302c6e7d56',
 		},
 	},
 	fields: [
